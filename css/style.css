@@ -1,0 +1,62 @@
+.date_number {
+  width: 56px;
+  height: 56px;
+  background-color: rgb(38, 38, 203);
+  font-size: 37px;
+  color: white;
+  padding: 10px;
+}
+.date_text {
+  font-size: 22px;
+  color: blueviolet;
+  display: inline-block;
+  margin: 10px 0 17px 0;
+}
+.title {
+  font-size: 18px;
+  margin-bottom: 17px;
+}
+.image {
+  /* display: inline-block; */
+  width: 100px;
+  height: 100px;
+  vertical-align: top;
+  margin-right: 50px;
+}
+.text {
+  width: 800px;
+  display: inline-block;
+  vertical-align: top;
+}
+.text1 {
+  margin-bottom: 20px;
+}
+article {
+  margin-bottom: 100px;
+}
+/* start section */
+.section_container {
+  width: 1170px;
+  margin: 0 auto;
+  padding: 50px 0 50px;
+  background-color: burlywood;
+  margin-bottom: 10px;
+}
+.list_contact {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 50px;
+}
+.map {
+  display: inline-block;
+  vertical-align: top;
+}
+.rien {
+  width: 2px;
+  height: 30px;
+  background-color: blue;
+  display: inline-block;
+}
+img {
+  margin: 0 20px;
+}
